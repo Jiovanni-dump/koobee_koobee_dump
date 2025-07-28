@@ -1,0 +1,14 @@
+# koobee-user 14 UP1A.231005.007 1740478760 release-keys
+- manufacturer: koobee
+- platform: common
+- codename: koobee
+- flavor: sys_mssi_64_ww_armv82-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: 1739948387
+- tags: release-keys
+- fingerprint: koobee/koobee/koobee:14/UP1A.231005.007/1739948387:user/release-keys
+- is_ab: true
+- brand: koobee
+- branch: koobee-user-14-UP1A.231005.007-1740478760-release-keys
+- repo: koobee_koobee_dump

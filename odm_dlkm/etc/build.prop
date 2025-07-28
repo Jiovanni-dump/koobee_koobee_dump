@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=koobee
+ro.product.odm_dlkm.device=koobee
+ro.product.odm_dlkm.manufacturer=koobee
+ro.product.odm_dlkm.model=koobee
+ro.product.odm_dlkm.name=koobee
+ro.odm_dlkm.build.date=Wed Feb 19 06:59:47 UTC 2025
+ro.odm_dlkm.build.date.utc=1739948387
+ro.odm_dlkm.build.fingerprint=koobee/koobee/koobee:14/UP1A.231005.007/1739948387:user/release-keys
+ro.odm_dlkm.build.id=TP1A.220624.014
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=1739948387
+ro.odm_dlkm.build.version.release=13
+ro.odm_dlkm.build.version.release_or_codename=13
+ro.odm_dlkm.build.version.sdk=33
+# end of file
